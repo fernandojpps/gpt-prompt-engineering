@@ -16,8 +16,16 @@ Explain what the prompt does. This should include details about what the AI is e
 
 ## Variations
 
-List any variations of the prompt that could be used. This could include different ways of phrasing the same prompt or different prompts that achieve the same goal. If there are no known variations, write "None" in this section.
+List any variations of the prompt that could be used. This could include different ways of phrasing the same prompt or different prompts that achieve the same goal.
+
+It could also include prompts that are similar but have different goals or contexts.
+
+This section is optional.
 
 ---
 
-Remember, the goal of this template is to ensure that all prompts in the repository are clear, effective, and easy to understand. Thank you for your contribution!
+If you find any issues with this prompt, please feel free to open an issue or submit a pull request. Thank you for your contribution!
+
+---
+
+Back to [Directory](./)
