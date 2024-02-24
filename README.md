@@ -1,4 +1,4 @@
-# GPT-Chat-Prompts-Guide
+# GPT Prompt Engineering
 
 This repository is designed to help developers understand and effectively use GPT prompts to improve their productivity in software development. Each prompt is stored in its own file for easy reference and organization.
 
