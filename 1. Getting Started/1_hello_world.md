@@ -1,0 +1,23 @@
+# Hello World Prompt
+
+## Goal of the Prompt
+
+The goal of this prompt is to generate a simple "Hello, World!" program in [language].
+
+## Prompt
+
+"Generate a 'Hello, World!' program in [language]."
+
+## Explanation
+
+This prompt is designed to generate a simple "Hello, World!" program in [language]. The generated code should print the string "Hello, World!" to the standard output.
+
+## Variations
+
+- "I'm working on a Python project and I need a simple 'Hello, World!' program. Can you help me with this?"
+- "In JavaScript, how can I write a program that prints 'Hello, World!' to the console?"
+- "I'm a beginner in [language] and I'm trying to write a 'Hello, World!' program. Can you show me how to do it?"
+
+---
+
+Remember, the goal of this prompt is to help new users understand how to write a simple program with GPT. Thank you for your contribution!
