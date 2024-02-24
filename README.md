@@ -21,7 +21,7 @@ type Example = {
   output: string;
 };
 
-type gptPrompt = (
+type GPTPrompt = (
   task: string,
   context: string,
   examples: Example[],
