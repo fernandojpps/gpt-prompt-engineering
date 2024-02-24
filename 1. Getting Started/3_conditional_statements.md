@@ -24,4 +24,4 @@ If you find any issues with this prompt, please feel free to open an issue or su
 
 ---
 
-Back to [1. Getting Started](./1_getting_started.md)
+Back to [1. Getting Started](./)
