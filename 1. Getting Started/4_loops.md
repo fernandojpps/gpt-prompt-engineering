@@ -20,4 +20,8 @@ This prompt is designed to generate a simple for loop in [language]. The generat
 
 ---
 
-Remember, the goal of this prompt is to help new users understand how to generate loops with GPT. Thank you for your contribution!
+If you find any issues with this prompt, please feel free to open an issue or submit a pull request. Thank you for your contribution!
+
+---
+
+Back to [1. Getting Started](./1_getting_started.md)

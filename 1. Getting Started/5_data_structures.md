@@ -20,4 +20,8 @@ This prompt is designed to generate a simple implementation of a generic queue (
 
 ---
 
-Remember, the goal of this prompt is to help new users understand how to implement basic data structures with GPT, and how to write tests for them. Thank you for your contribution!
+If you find any issues with this prompt, please feel free to open an issue or submit a pull request. Thank you for your contribution!
+
+---
+
+Back to [1. Getting Started](./1_getting_started.md)
